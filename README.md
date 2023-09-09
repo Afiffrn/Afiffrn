@@ -2,7 +2,7 @@
 - 👀 I’m interested in Internet of Things
 - 🌱 I’m currently learning about IoT
 - 💞️ I’m looking to collaborate on IoT Project
-- 📫 Contact me by email : afiff@students.amikom.ac.id
+- 📫 Contact me ...
 - Thankyou ...
 
 <!---
